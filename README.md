@@ -6,3 +6,6 @@
     <img src="VulnScope.png" alt="Logo" width="400" style="margin-top:-10px;" />
   </a>
 </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
